@@ -2,7 +2,7 @@ Nome do aluno: Filipe Dias Gomes Do Val
 
 Codigo de Matricula:202408605714
 
-Descrição do Projeto – Questão 1
+Descrição do Projeto – Questão 1: 
 Este projeto foi desenvolvido utilizando a IDE Replit. A estrutura foi organizada da seguinte forma:
 index.html: Contém toda a parte de HTML, CSS e JavaScript (tudo no mesmo arquivo para facilitar o teste e visualização).
 crud.php: Aqui estão as funcionalidades em PHP, responsáveis pelas operações com o banco de dados (inserção, exclusão etc.).
